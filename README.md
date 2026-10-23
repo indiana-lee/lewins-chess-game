@@ -8,6 +8,16 @@ Official landing page for the Lewin's Chess Game chess companion app.
 - `privacy.html` — privacy-policy page for App Store review
 - `support.html` — support page and future public support destination
 
+## App Screenshots
+
+The landing page includes the six supplied iPad screenshots from `assets/`:
+
+- `iPad-screenshot-1.png` — hero preview of the Classic Walnut board
+- `iPad-screenshot-2.png` through `iPad-screenshot-3.png` — alternate board themes
+- `iPad-screenshot-4.png` — Premium Membership
+- `iPad-screenshot-5.png` — app description and play features
+- `iPad-screenshot-6.png` — language selection
+
 ## Local Preview
 
 This is a static GitHub Pages site, so you can open `index.html` directly in a browser.
@@ -29,7 +39,6 @@ http://localhost:4173/
 Replace the remaining placeholders before submitting the app or publishing the website:
 
 - Add the final App Store URL in `index.html`.
-- Replace the hero and screenshot placeholders with approved app screenshots.
 - Add the reviewed privacy-policy text, effective date, and contact method in `privacy.html`.
 - Add the public support email address and any relevant FAQs in `support.html`.
 
