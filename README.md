@@ -6,7 +6,7 @@ Official landing page for the Lewin's Chess Game chess companion app.
 
 - `index.html` — product landing page
 - `privacy.html` — privacy-policy page for App Store review
-- `support.html` — support page and future public support destination
+- `support.html` — public support page
 
 ## App Screenshots
 
@@ -33,14 +33,6 @@ Then visit:
 ```text
 http://localhost:4173/
 ```
-
-## Before Publishing
-
-Replace the remaining placeholders before submitting the app or publishing the website:
-
-- Add the final App Store URL in `index.html`.
-- Add the reviewed privacy-policy text, effective date, and contact method in `privacy.html`.
-- Add the public support email address and any relevant FAQs in `support.html`.
 
 ## GitHub Pages Verification
 
